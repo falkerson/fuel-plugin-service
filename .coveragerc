@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = fuel_plugin_service
+omit = fuel_plugin_service/openstack/*
+
+[report]
+ignore_errors = True
